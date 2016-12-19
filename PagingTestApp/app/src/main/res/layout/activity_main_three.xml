@@ -9,12 +9,18 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="MainActivity"/>
+        android:text="MainThreeActivity"/>
 
     <Button
         android:id="@+id/nextButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="next" />
+
+    <Button
+        android:id="@+id/next2Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="next2" />
 
 </LinearLayout>

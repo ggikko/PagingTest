@@ -15,6 +15,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".first.FirstActivity" />
+        <activity android:name=".second.SecondActivity" />
+        <activity android:name=".third.ThirdActivity" />
+        <activity android:name=".MainTwoActivity" />
+        <activity android:name=".MainThreeActivity" />
+        <activity android:name=".first.FirstTwoActivity" />
+        <activity android:name=".first.FirstThreeActivity" />
+        <activity android:name=".second.SecondTwoActvitiy" />
+        <activity android:name=".third.ThirdTwoActivity"></activity>
     </application>
 
 </manifest>
